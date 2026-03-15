@@ -1,0 +1,6 @@
+name,brand,cpu_mark,cores,threads
+Ryzen 5 5600X,AMD,0,6,12
+Core i5-12400F,Intel,0,6,12
+Ryzen 7 7800X3D,AMD,0,8,16
+Core i7-13700K,Intel,0,16,24
+Core i9-13900K,Intel,0,24,32
